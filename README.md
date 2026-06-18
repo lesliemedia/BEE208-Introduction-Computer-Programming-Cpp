@@ -17,7 +17,8 @@ Sum = 15
 Difference = 5
 Product = 50
 Quotient = 2
-![Q1 Output](screenshots/sample-output.png)
+![Q1 Output]<img width="628" height="351" alt="sample-output" src="https://github.com/user-attachments/assets/28390f03-3e8b-44ca-b82e-6140e79538d0" />
+
 
 ## Reflection
 I learned how arithmetic operators are used to perform calculations on user input.
